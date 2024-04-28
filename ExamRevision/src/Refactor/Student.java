@@ -39,6 +39,7 @@ public void computeGrade(float avg) {
 	grade = 'D';
 	else
 	grade = 'F';
+	grade= 't';
 	System.out.println("Result of " + data.name.toUpperCase());
 	System.out.println("Roll no is " + "R/BCA-2019" + data.rollno);
 	System.out.println("Grade is " + grade);
