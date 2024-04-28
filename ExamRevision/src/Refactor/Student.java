@@ -40,7 +40,7 @@ public void computeGrade(float avg) {
 	else
 	grade = 'F';
 	System.out.println("Result of " + data.name.toUpperCase());
-	System.out.println("Roll no is " + "R/BCA-2019" + data.rollno);
+	System.out.println("Rol no is " + "R/BCA-2019" + data.rollno);
 	System.out.println("Grade is " + grade);
 }
 public static void main(String[] args) {
