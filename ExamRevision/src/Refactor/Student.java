@@ -36,7 +36,7 @@ public void computeGrade(float avg) {
 	else if (avg >50 && avg <=60)
 	grade = 'C';
 	else if (avg >40 && avg <=50)
-	grade = 'a';
+	grade = 'd';
 	else
 	grade = 'F';
 	System.out.println("Result of " + data.name.toUpperCase());
